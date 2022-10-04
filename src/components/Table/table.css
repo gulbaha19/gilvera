@@ -1,0 +1,168 @@
+.table {
+  background: #ffffff;
+  box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+  border-radius: 30px;
+  padding-left: 38px;
+  padding-top: 30px;
+  padding-right: 44px;
+  padding-bottom: 40px;
+  position: relative;
+  min-width: 500px;
+}
+.tableName {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 33px;
+
+  letter-spacing: -0.01em;
+}
+.tableSubName {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+
+  letter-spacing: -0.01em;
+
+  color: #16c098;
+}
+.tableHeaderText {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.search {
+  box-sizing: border-box;
+
+  width: 216px;
+  height: 38px;
+  border: 0 solid wheat;
+  background: #f9fbff;
+  border-radius: 10px;
+}
+table {
+  width: 100%;
+  margin-bottom: 30px;
+  min-width: 500px;
+}
+th {
+  letter-spacing: -0.01em;
+  color: #b5b7c0;
+  font-weight: 500;
+  text-align: left;
+}
+.line {
+  position: absolute;
+  width: 100%;
+  margin-left: -38px;
+}
+tbody span {
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: -0.01em;
+
+  color: #292d32;
+}
+table {
+  border-collapse: collapse;
+}
+tbody tr {
+  height: 69px;
+  border-bottom: 1px solid #b5b7c0;
+}
+.active {
+  height: 29px;
+
+  box-sizing: border-box;
+  color: #00b087;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 12px;
+  gap: 10px;
+  background: rgba(22, 192, 152, 0.38);
+  border: 1px solid #00b087;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  width: 80px;
+  letter-spacing: -0.01em;
+}
+.inactive {
+  height: 21px;
+
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+
+  letter-spacing: -0.01em;
+
+  color: #df0404;
+
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 12px;
+  gap: 10px;
+
+  height: 29px;
+  width: 80px;
+  background: #ffc5c5;
+  border: 1px solid #df0404;
+  border-radius: 4px;
+}
+.helpTexter {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  letter-spacing: -0.01em;
+
+  color: #b5b7c0;
+}
+.css-19xm0h7-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  background-color: #5932ea !important;
+  color: white !important;
+  width: 26px !important;
+  height: 24px !important;
+}
+.css-19xm0h7-MuiButtonBase-root-MuiPaginationItem-root {
+  background: #f5f5f5 !important;
+  width: 26px !important;
+  height: 24px !important;
+  font-size: 12px !important;
+}
+.tableFooter {
+  display: flex;
+  justify-content: space-between;
+}
+.status {
+  text-align: center !important;
+}
+.inputWrap {
+  position: relative;
+}
+.inputWrap input {
+  box-sizing: border-box;
+  padding-left: 40px;
+}
+
+.icon {
+  position: absolute;
+  box-sizing: border-box;
+  top: 8px;
+  left: 7px;
+}
+input::placeholder {
+  color: #b5b7c0;
+}
+@media screen and (max-width: 976px) {
+  .table {
+    padding-left: 5px;
+  }
+}

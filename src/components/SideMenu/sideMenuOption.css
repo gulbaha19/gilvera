@@ -1,0 +1,44 @@
+.sideMenuoption {
+  padding: 13px;
+  margin-bottom: 5px;
+  color: #9197b3;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+}
+.sideMenuoption p {
+  display: flex;
+  text-align: left;
+  align-items: center;
+}
+.sideMenuoption span {
+  display: flex;
+  text-align: left;
+  align-items: center;
+  margin-right: 16px;
+}
+.selectedOption {
+  background: #5932ea;
+  border-radius: 8px;
+  box-sizing: border-box;
+  padding: 13px;
+  margin-bottom: 5px;
+  color: white;
+  height: 46px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.selectedOption p {
+  display: flex;
+  text-align: left;
+  align-items: center;
+}
+.selectedOption span {
+  display: flex;
+  text-align: left;
+  align-items: center;
+  margin-right: 16px;
+}
