@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d57cb65f.css",
-    "main.js": "/react-gh-pages/static/js/main.12dff189.js",
-    "static/js/787.b396c716.chunk.js": "/react-gh-pages/static/js/787.b396c716.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5a46e148d19b86d0a7efdf49fb1a9016.svg",
-    "static/media/percent.svg": "/react-gh-pages/static/media/percent.5230029f4e637c534c143c4d95cf421f.svg",
-    "static/media/wallet.svg": "/react-gh-pages/static/media/wallet.25d824b57e5c5a753432296807e7285d.svg",
-    "static/media/cube.svg": "/react-gh-pages/static/media/cube.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
-    "static/media/help.svg": "/react-gh-pages/static/media/help.5d23912a887f9edc9d9f8d957ec960e6.svg",
-    "static/media/customer.svg": "/react-gh-pages/static/media/customer.27617add0f452c671fec310dc74fcb18.svg",
-    "static/media/lines.svg": "/react-gh-pages/static/media/lines.791e603fbdd6a6c85ad2d4e9a18ff5d4.svg",
-    "static/media/key.svg": "/react-gh-pages/static/media/key.153a0eb179be0548729792a4f21fc52e.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "static/media/search.svg": "/react-gh-pages/static/media/search.d555a35800fec6f7c1928aef95546ef7.svg",
-    "static/media/rightArrow.svg": "/react-gh-pages/static/media/rightArrow.05c67f5f0585d177024ef1d371e79dd6.svg",
-    "static/media/white.svg": "/react-gh-pages/static/media/white.3f876a0bd0816e20fb0eb52ea56d7a04.svg",
-    "static/media/line.svg": "/react-gh-pages/static/media/line.c6346384fea1a96a9cfc0adafe274147.svg",
-    "main.d57cb65f.css.map": "/react-gh-pages/static/css/main.d57cb65f.css.map",
-    "main.12dff189.js.map": "/react-gh-pages/static/js/main.12dff189.js.map",
-    "787.b396c716.chunk.js.map": "/react-gh-pages/static/js/787.b396c716.chunk.js.map"
+    "main.css": "/gilvera/static/css/main.d57cb65f.css",
+    "main.js": "/gilvera/static/js/main.ccb8a1ab.js",
+    "static/js/787.b396c716.chunk.js": "/gilvera/static/js/787.b396c716.chunk.js",
+    "static/media/logo.svg": "/gilvera/static/media/logo.5a46e148d19b86d0a7efdf49fb1a9016.svg",
+    "static/media/percent.svg": "/gilvera/static/media/percent.5230029f4e637c534c143c4d95cf421f.svg",
+    "static/media/wallet.svg": "/gilvera/static/media/wallet.25d824b57e5c5a753432296807e7285d.svg",
+    "static/media/cube.svg": "/gilvera/static/media/cube.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
+    "static/media/help.svg": "/gilvera/static/media/help.5d23912a887f9edc9d9f8d957ec960e6.svg",
+    "static/media/customer.svg": "/gilvera/static/media/customer.27617add0f452c671fec310dc74fcb18.svg",
+    "static/media/lines.svg": "/gilvera/static/media/lines.791e603fbdd6a6c85ad2d4e9a18ff5d4.svg",
+    "static/media/key.svg": "/gilvera/static/media/key.153a0eb179be0548729792a4f21fc52e.svg",
+    "index.html": "/gilvera/index.html",
+    "static/media/search.svg": "/gilvera/static/media/search.d555a35800fec6f7c1928aef95546ef7.svg",
+    "static/media/rightArrow.svg": "/gilvera/static/media/rightArrow.05c67f5f0585d177024ef1d371e79dd6.svg",
+    "static/media/white.svg": "/gilvera/static/media/white.3f876a0bd0816e20fb0eb52ea56d7a04.svg",
+    "static/media/line.svg": "/gilvera/static/media/line.c6346384fea1a96a9cfc0adafe274147.svg",
+    "main.d57cb65f.css.map": "/gilvera/static/css/main.d57cb65f.css.map",
+    "main.ccb8a1ab.js.map": "/gilvera/static/js/main.ccb8a1ab.js.map",
+    "787.b396c716.chunk.js.map": "/gilvera/static/js/787.b396c716.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d57cb65f.css",
-    "static/js/main.12dff189.js"
+    "static/js/main.ccb8a1ab.js"
   ]
 }
