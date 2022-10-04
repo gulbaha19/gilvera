@@ -22,7 +22,7 @@ export const tableData = [
     id: 2,
     name: "Floyd Miles",
     company: "Yahoo",
-    number: "(205) 555-0100",
+    number: "(205) 555-1100",
     email: "floyd@yahoo.com",
     country: "Kiribati",
     status: false,
