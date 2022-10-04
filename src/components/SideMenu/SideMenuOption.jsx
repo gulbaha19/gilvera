@@ -1,4 +1,4 @@
-import { IconArrow, IconMedium } from "../../utils/icons/IconComponent";
+import { IconArrow } from "../../utils/icons/IconComponent";
 import "./sideMenuOption.css";
 
 const SideMenuOption = ({ option }) => {

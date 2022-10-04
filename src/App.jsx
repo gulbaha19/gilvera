@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import MainPage from "./pages/MainPage";
 import SideMenu from "./components/SideMenu/SideMenu";

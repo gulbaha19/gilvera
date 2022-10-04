@@ -1,5 +1,5 @@
 import { tableData } from "../../constData/data";
-import { IconLine, IconMedium } from "../../utils/icons/IconComponent";
+import {  IconMedium } from "../../utils/icons/IconComponent";
 import Pagination from "@mui/material/Pagination";
 import Stack from "@mui/material/Stack";
 
